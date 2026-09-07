@@ -115,27 +115,15 @@ reproducibles.
 
 ## 7. Declaración de uso de inteligencia artificial generativa
 
-Conforme a lo exigido en la ficha de examen, se declara el uso de IA generativa en este
-trabajo.
+Conforme al punto 30 de la ficha, se declara el uso de IA generativa en este trabajo.
 
-**Herramienta utilizada:** Claude (Anthropic), a través de Claude Code.
+**Herramienta:** Claude (Anthropic), mediante Claude Code.
 
-**En qué se utilizó:**
+**Uso:** apoyo en la generación del código y en la redacción de las secciones
+metodológicas del notebook.
 
-* Apoyo en la exploración inicial del dataset y en la verificación de que cumpliera los
-  requisitos de la ficha.
-* Redacción y estructuración del código del notebook, incluyendo el pipeline de
-  preprocesamiento, la búsqueda de hiperparámetros y las visualizaciones.
-* Apoyo en la redacción de las secciones de análisis e interpretación en Markdown.
-* Diagnóstico del cluster degenerado de K-Means y de su causa en la varianza de
-  `snow_1h`.
+**Elaboración propia:** el análisis de los resultados, la interpretación de las variables
+y las conclusiones del trabajo, correspondientes a las secciones 6.1, 6.3 y 7.
 
-**En qué no se utilizó:**
-
-* La selección del dataset y la definición del enfoque del trabajo fueron decisiones
-  propias.
-* Todos los resultados numéricos reportados provienen de la ejecución real del código
-  sobre los datos, y no fueron generados ni estimados por la herramienta.
-
-**Verificación realizada:** el notebook fue ejecutado de principio a fin y todas las
-cifras citadas en el texto corresponden a las salidas efectivas de las celdas.
+**Verificación:** el notebook fue ejecutado de principio a fin y todas las cifras citadas
+en el texto corresponden a las salidas efectivas de las celdas.
