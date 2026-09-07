@@ -119,11 +119,11 @@ Conforme al punto 30 de la ficha, se declara el uso de IA generativa en este tra
 
 **Herramienta:** Claude (Anthropic), mediante Claude Code.
 
-**Uso:** apoyo y corrección en la generación del código y en la redacción de las secciones
-metodológicas del notebook.
+**Uso:** apoyo y corrección en la generación del código.
 
-**Elaboración propia:** el análisis de los resultados, la interpretación de las variables
-y las conclusiones del trabajo, correspondientes a las secciones 6.1, 6.3 y 7.
+**Elaboración propia:** la totalidad del texto del informe, incluyendo el análisis
+exploratorio y sus justificaciones, la interpretación de los resultados y las
+conclusiones del trabajo.
 
 **Verificación:** el notebook fue ejecutado de principio a fin y todas las cifras citadas
 en el texto corresponden a las salidas efectivas de las celdas.
