@@ -1,0 +1,4 @@
+Modelo,RMSE test,MAE test,R2 test,MAPE test,RMSE train,R2 train,Brecha R2,Tiempo entrenamiento (s),Tiempo inferencia (s)
+Random Forest,385.7384,237.5301,0.962,45.8347,262.4678,0.9825,0.0205,21.7909,0.2658
+Ridge (L2),1766.1594,1545.6485,0.2037,164.7442,1771.3994,0.2045,0.0008,0.0098,0.0013
+Baseline (media),1979.3329,1738.0349,-0.0001,218.0661,1986.1033,0.0,0.0001,0.0,0.0
